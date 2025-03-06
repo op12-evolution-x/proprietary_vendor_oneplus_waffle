@@ -280,3 +280,6 @@ PRODUCT_PACKAGES += \
     CFR_imx581 \
     CFR_lyt808 \
     CFR_ov64b40_tele
+
+PRODUCT_PACKAGES += \
+    acdb_cal_acdb_cal_symlink

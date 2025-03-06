@@ -51,3 +51,10 @@ prebuilt_etc {
 	device_specific: true,
 }
 
+install_symlink {
+	name: "acdb_cal_acdb_cal_symlink",
+	soc_specific: true,
+	installed_location: "etc/acdbdata/pineapple_mtp/acdb_cal.acdb",
+	symlink_target: "/odm/etc/acdbdata/acdb_cal.acdb",
+}
+
