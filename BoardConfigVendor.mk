@@ -19,7 +19,6 @@ AB_OTA_PARTITIONS += \
     modem \
     oplus_sec \
     oplusstanvbk \
-    pvmfw \
     qupfw \
     shrm \
     splash \
